@@ -1,0 +1,2 @@
+# MathConfig
+Math Configuration
